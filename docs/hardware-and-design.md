@@ -1,3 +1,3 @@
-#Hardware and Design
+# Hardware & Design
 
 hardware
