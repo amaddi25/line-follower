@@ -14,14 +14,14 @@ Comes with the Romi kit.
 The STM32 NUCLEO-L476RG which was provided is the main microcontroller used for this project.
 
 <p align="center">
-  <img src="/docs/assets/images/STM32.HEIC" />
+  <img src="/docs/assets/images/STM32.png" />
 </p>
 
 ### Shoe of Brian
 The [shoe of brian](/assets/solidworks/ShoeOfBrian03E.step) is a board custom designed by Dr. JR Ridgely that interfaces with the STM32 and translates micropython code to C which can be read by the STM32.
 
 <p align="center">
-  <img src="/docs/assets/images/shoe_of_brian.HEIC" />
+  <img src="/docs/assets/images/shoe_of_brian.png" />
 </p>
 
 ### 5. Reflectance sensors
