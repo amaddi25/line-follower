@@ -8,3 +8,5 @@ R4D5 is a robot built for the following functions:
 - Avoid obstacles
 - Stop in an end-zone
 - Find its way back to the start-zone
+
+![Book logo](/line-follower/assets/assembly-isometric.png)
