@@ -14,10 +14,11 @@ This is the summarized documentation for the R4D5 robot and will discuss the pro
   
 The goal of the project was for the robot to navigate any track with the above stated elements arranged in a randomized order with sufficient speed and reliability.
 
-The following links will discuss the hardware, software, and electronics involved with building the robot pictured below.
+The following links will discuss the hardware, electronics, software, and analysis involved with building the robot pictured below.
 - [Hardware & Design](hardware-and-design.md)
 - [Electronics](electronics.md)
 - [Software](software.md)
+- [Analysis](analysis.md)
 
 <p align="center">
   <img src="/docs/assets/images/assembly-isometric.png" />
@@ -26,3 +27,12 @@ The following links will discuss the hardware, software, and electronics involve
 Final results
 
 suggestions
+
+
+
+
+checklist:
+finish readme
+software page - summarize code, fsm, task diagram
+analysis page - hw3, math
+upload code
