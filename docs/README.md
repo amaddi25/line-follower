@@ -22,3 +22,7 @@ The following links will discuss the hardware, software, and electronics involve
 <p align="center">
   <img src="/docs/assets/images/assembly-isometric.png" />
 </p>
+
+Final results
+
+suggestions
