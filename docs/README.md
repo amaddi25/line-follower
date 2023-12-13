@@ -20,5 +20,5 @@ The following links will discuss the hardware, software, and electronics involve
 - [Software](software.md)
 
 <p align="center">
-  <img src="/docs/assets/assembly-isometric.png" />
+  <img src="/docs/assets/images/assembly-isometric.png" />
 </p>
