@@ -19,4 +19,6 @@ The following links will discuss the hardware, software, and electronics involve
 - [Electronics](electronics.md)
 - [Software](software.md)
 
-![Book logo](/docs/assets/assembly-isometric.png)
+<p align="center">
+  <img src="/docs/assets/assembly-isometric.png" />
+</p>
