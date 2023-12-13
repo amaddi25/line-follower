@@ -1,6 +1,9 @@
 # R4D5 Line-Following Astromech
+### Collaborators: Ayush Kakkanat & Akanksha Maddi
 
-R4D5 is a robot built for the following functions:
+Click [here](https://Ayush17318.github.io/line-follower/) for the website version.
+
+This is the summarized documentation for the R4D5 robot and will discuss the process, logic, and tools used. The project was completed in a span of 5 weeks and has the following functions to execute:
 - Linear line tracking
 - Turn various sized curves
 - Not be affected by line breaks
@@ -8,7 +11,12 @@ R4D5 is a robot built for the following functions:
 - Avoid obstacles
 - Stop in an end-zone
 - Find its way back to the start-zone
+  
+The goal of the project was for the robot to navigate any track with the above stated elements arranged in a randomized order with sufficient speed and reliability.
+
+The following links will discuss the hardware, software, and electronics involved with building the robot pictured below.
+- [Hardware & Design](hardware-and-design.md)
+- [Electronics](electronics.md)
+- [Software](software.md)
 
 ![Book logo](/docs/assets/assembly-isometric.png)
-
-Click [here](https://Ayush17318.github.io/line-follower/) for the website version.
