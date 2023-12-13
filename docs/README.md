@@ -1,5 +1,10 @@
-# Please start here
+# R4D5 Line-Following Astromech
 
-Welcome, and thanks for choosing our product.
-
-If you want to dive right in, try our [quick start tutorial](./). 
+R4D5 is a robot built for the following functions:
+- Linear line tracking
+- Turn various sized curves
+- Not be affected by line breaks
+- Not be affected by intersections
+- Avoid obstacles
+- Stop in an end-zone
+- Find its way back to the start-zone
