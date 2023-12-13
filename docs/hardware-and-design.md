@@ -22,3 +22,7 @@ The outer shell was inspired by STAR WARS astromechs which best suit the shape o
 - Head
 
 For the time and scope of the project, only a stripped down model was designed to house all the Romi components. The STL for the parts are as follows:
+<p align="center">
+  <img src="/docs/assets/R2D2 Body.STL" />
+</p>
+
