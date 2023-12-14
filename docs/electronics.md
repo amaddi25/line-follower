@@ -13,9 +13,7 @@ Comes with the Romi kit.
 ### 4. STM32 Microcontroller
 The STM32 NUCLEO-L476RG which was provided is the main microcontroller used for this project.
 
-<p align="center">
-  <img src="/docs/assets/images/stm.png" />
-</p>
+![stm](./assets/images/stm.png)
 
 The following links are useful to learn about the Nucleo and identify the relevant pins:
 - [Graphic Pinout Diagram](https://os.mbed.com/platforms/ST-Nucleo-L476RG/)
@@ -24,9 +22,7 @@ The following links are useful to learn about the Nucleo and identify the releva
 ### Shoe of Brian
 The [shoe of brian](/assets/solidworks/ShoeOfBrian03E.step) is a board custom designed by Dr. JR Ridgely that interfaces with the STM32 and translates micropython code to C which can be read by the STM32.
 
-<p align="center">
-  <img src="/docs/assets/images/shoe.png" />
-</p>
+![shoe](./assets/images/shoe.png)
 
 ### 5. Reflectance sensors
 In order to track the line, which is a 2 inch wide black strip on white paper, [reflectance sensors](https://www.pololu.com/product/4246/pictures) were used.
