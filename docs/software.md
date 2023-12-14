@@ -30,4 +30,4 @@ The finite state machines for each task is as described below:
   <img src="/docs/assets/images/sw_gen_fsm.png" />
 </p>
 
-The detailed doxygen commented code for each python file can be found [here](file:///C:/Users/ayush/OneDrive/Documents/Projects%20and%20Labs/Mechatronics/Labs/Term%20Project/src/html/index.html)
+The detailed doxygen commented code for each python file can be found [here](https://ayush17318.github.io/Term-Project/)
