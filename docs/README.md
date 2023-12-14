@@ -2,9 +2,6 @@
 ### Collaborators: Ayush Kakkanat & Akanksha Maddi
 
 Click [here](https://Ayush17318.github.io/line-follower/) for the website version.
-**Ways to view this site**
-* [Website](https://Ayush17318.github.io/line-follower/)
-* [Github](https://github.com/Ayush17318/line-follower/) 
 
 This is the summarized documentation for the R4D5 robot and will discuss the process, logic, and tools used. The project was completed in a span of 5 weeks and has the following functions to execute:
 - Linear line tracking
