@@ -24,6 +24,8 @@ The following links will discuss the hardware, electronics, software, and analys
   <img src="assets/images/assembly-isometric.png" />
 </p>
 
+![here](./assets/images/assembly-isometric.png)
+
 Final results
 
 suggestions
