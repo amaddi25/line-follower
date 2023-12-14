@@ -19,7 +19,7 @@ The kit was assembled with M2.5 fasteners and standoffs. Additionally, an acryli
 For the time and scope of the project, only a stripped down model was designed to house all the Romi components. The outer shell was inspired by STAR WARS astromechs which best suit the shape of the Romi. The shell is split up into three main components which are linked to their respective interactive STL files:
 - [Legs](/assets/solidworks/r4d5_Legs.STL)
 - [Body](/assets/solidworks/r4d5_Body.STL)
-- [Head](/assets/solidworks/r4d5_Head.SLT)
+- [Head](/assets/solidworks/r4d5_Head.STL)
 
 The full list of cad files can be found [here](/assets/solidworks).
 
