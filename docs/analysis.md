@@ -5,15 +5,15 @@ In order to understand and predict the behaviour of the robot, a simplified diff
 The following hand calculations describe the dynamics used for the simulations
 
 <p align="center">
-  <img src="/docs/assets/images/hw3-1.jpg" />
+  <img src="/docs/assets/images/hw3-1.JPG" />
 </p>
 
 <p align="center">
-  <img src="/docs/assets/images/hw3-2.jpg" />
+  <img src="/docs/assets/images/hw3-2.JPG" />
 </p>
 
 <p align="center">
-  <img src="/docs/assets/images/hw3-3.jpg" />
+  <img src="/docs/assets/images/hw3-3.JPG" />
 </p>
 
 For a simulation of the robot moving in a circle, the following plots were described
