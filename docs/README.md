@@ -21,7 +21,7 @@ The following links will discuss the hardware, electronics, software, and analys
 - [Analysis](analysis.md)
 
 <p align="center">
-  <img src="docs/assets/images/assembly-isometric.png" />
+  <img src="assets/images/assembly-isometric.png" />
 </p>
 
 Final results
