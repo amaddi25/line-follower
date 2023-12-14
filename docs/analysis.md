@@ -31,7 +31,7 @@ For a simulation depicting the robot moving in a circle, corresponding plots wer
   <img src="/docs/assets/images/hw_x-y.png" />
 </p>
 
-Access the full Jupyter simulation for the robot moving in a circle [here](/docs/code/HW0x03.ipynb).
+Access the full Jupyter simulation for the robot moving in a circle [here](https://github.com/Ayush17318/line-follower/blob/main/docs/code/HW0x03.ipynb).
 
 ## Kinematic Model Limitations and Enhancements
 
