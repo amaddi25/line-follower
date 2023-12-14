@@ -32,7 +32,7 @@ For a simulation of the robot moving in a circle, the following plots were descr
 
 <p align="center">
   <img src="/docs/assets/images/hw_x-y.png" />
-<
+</p>
   
 The full jupyter simulation for the robot moving in a circle can be found [here](/code/HW0x03.ipynb).
 
