@@ -74,3 +74,5 @@ The following table summarizes the all the pins used on the STM32.
 |       | SDA           | CN7           | PA4           | SDA           |
 |       | SCL           | CN7           | PA5           | SCL           |
 |       | Reset         | CN10          | PB2           | RST           |
+
+#### [Home](./README.md) 
