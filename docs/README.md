@@ -24,8 +24,6 @@ The following links will discuss the hardware, electronics, software, and analys
   <img src="https://github.com/Ayush17318/line-follower/blob/main/docs/assets/images/assembly-isometric.png" />
 </p>
 
-![Book logo](/docs/assets/images/assembly-isometric.png)
-
 Final results
 
 suggestions
