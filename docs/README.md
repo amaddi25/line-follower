@@ -20,10 +20,6 @@ The following links will discuss the hardware, electronics, software, and analys
 - [Software](software.md)
 - [Analysis](analysis.md)
 
-<p align="center">
-  <img src="assets/images/assembly-isometric.png" />
-</p>
-
 ![here](./assets/images/assembly-isometric.png)
 
 Final results
