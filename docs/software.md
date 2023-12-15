@@ -30,15 +30,21 @@ The project operates on an open-loop control algorithm, where no attribute or va
   <img src="/docs/assets/images/mot_gen_fsm.png" />
 </p>
 
+(talk about it)
+
 ### Sensor Task FSM
 <p align="center">
   <img src="/docs/assets/images/sen_gen_fsm.png" />
 </p>
 
+(talk about it)
+
 ### Switch Task FSM
 <p align="center">
   <img src="/docs/assets/images/sw_gen_fsm.png" />
 </p>
+
+(talk about it)
 
 ## Code Documentation
 Comprehensive Doxygen comments have been provided in the codebase for each Python file. The detailed documentation is accessible [here](https://ayush17318.github.io/Term-Project/).
