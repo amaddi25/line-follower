@@ -22,15 +22,28 @@ The following links will discuss the hardware, electronics, software, and analys
 
 ![here](./assets/images/assembly-isometric.png)
 
+(Talk about how the robot was tested on two tracks as pictured)
+
+![here](./assets/images/track1.png)
+![here](./assets/images/track2.png)
+
 Final results
+
+(show a video/gif of the robot completing both tracks)
+
+Challenges
+
+(talk about the period causing motors to pulsate and not reach the desired duty cycle, closed loop)
 
 suggestions
 
+talk about these
+(add closed loop, use bno055 to keep track of robots absolute position and be able to find its way back to the start, get more sensors, a more robust obstacle detection algorithm using a time of flight sensor)
 
 
 
 checklist:
 finish readme
-software page - summarize code, fsm, task diagram
-analysis page - hw3, math
+software page - doxygen, fsm, task diagram
+analysis page - math
 upload code
