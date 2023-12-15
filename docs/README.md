@@ -25,6 +25,7 @@ The following links will discuss the hardware, electronics, software, and analys
 (Talk about how the robot was tested on two tracks as pictured)
 
 ![here](./assets/images/track1.png)
+
 ![here](./assets/images/track2.png)
 
 Final results
