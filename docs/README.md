@@ -20,10 +20,8 @@ The following links will discuss the hardware, electronics, software, and analys
 - [Software](software.md)
 - [Analysis](analysis.md)
 
-put in naked romi, dino romi and r4d5 romi photos
+put in naked romi and r4d5 romi photos
 ![here](./assets/images/naked_romi.png)
-
-![here](./assets/images/dino_romi.png)
 
 ![here](./assets/images/r4d5_romi.png)
 
