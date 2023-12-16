@@ -27,7 +27,7 @@ The project operates on an open-loop control algorithm, where no attribute or va
 
 ### Motor Task FSM
 <p align="center">
-  <img src="/docs/assets/images/mot_gen_fsm.JPg" />
+  <img src="/docs/assets/images/mot_gen_fsm.JPG" />
 </p>
 
 (talk about it)
