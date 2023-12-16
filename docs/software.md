@@ -8,7 +8,7 @@ The software serves as the intelligence center of the project, employing a modul
 The priority multi-tasking functionality is facilitated by two essential files: cotask.py and taskshare.py, provided by Dr. JR Ridgely. The task diagram below visually represents the architecture of the software.
 
 <p align="center">
-  <img src="/docs/assets/images/task_diagram.jpg" />
+  <img src="/docs/assets/images/task_diagram.JPG" />
 </p>
 
 ## Task Prioritization and Frequency
@@ -27,7 +27,7 @@ The project operates on an open-loop control algorithm, where no attribute or va
 
 ### Motor Task FSM
 <p align="center">
-  <img src="/docs/assets/images/mot_gen_fsm.jpg" />
+  <img src="/docs/assets/images/mot_gen_fsm.JPg" />
 </p>
 
 (talk about it)
