@@ -23,9 +23,9 @@ The following links will discuss the hardware, electronics, software, and analys
 put in naked romi and r4d5 romi photos
 ![here](./assets/images/naked_romi.png)
 
-![here](./assets/images/r2d4_isometric.png)
+![here](./assets/images/r4d5_isometric.png)
 
-![here](./assets/images/r2d4_front.png)
+![here](./assets/images/r4d5_front.png)
 
 ![here](./assets/images/romi_inside_shell.png)
 
